@@ -33,4 +33,4 @@ const sortingCriteria = [
 ];
 
 const sortedData = deepSort(data, sortingCriteria);
-console.log(sortedData);  
+console.log(sortedData);
